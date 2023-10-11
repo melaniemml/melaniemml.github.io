@@ -12,7 +12,9 @@ website:
         text: Ongoing research
     right: 
       - icon: twitter
-        href: "www.twitter.com/melanie_medinal"
+        href: "https://www.twitter.com/melanie_medinal"
+      - href: "https://github.com/melaniemml"
+        icon: github
 format:
   html:
     theme: cosmo
