@@ -12,7 +12,7 @@ website:
         text: Ongoing research
     right: 
       - icon: twitter
-        href: www.twitter.com/melanie_medinal
+        href: "www.twitter.com/melanie_medinal"
 format:
   html:
     theme: cosmo
