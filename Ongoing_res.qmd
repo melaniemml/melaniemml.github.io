@@ -1,0 +1,7 @@
+---
+title: "Ongoing reseach projects"
+subtitle: "Here lies all my current research projects and mussings" 
+date: 2023-09-11
+editor: visual
+title-block-banner: true
+---
